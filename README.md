@@ -42,13 +42,6 @@
   </a>
 </p>
 
-<h3 align="left">Begginer:</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,unreal,tailwind,dart,flutter" />
-  </a>
-</p>
-
 ## 💬 Contact
 
 <p align="center">🌐 <a href="https://herooxxx.github.io/Portfolio/">Portfolio</a> | 💼 <a href="https://www.linkedin.com/in/emilien-montaret-842394385/">LinkedIn</a> | 🐙  <a href="https://github.com/Herooxxx">GitHub</a>
